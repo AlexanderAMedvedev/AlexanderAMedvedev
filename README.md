@@ -7,6 +7,12 @@ I'm  the iOS-developer from Moscow.
 Swift, Git, HTTP requests, Xcode, MVC and MVP, layout by means of code, Kingfisher, 
 UITableView, UICollectionView
 
+### My projects
+
+MovieQuiz
+ImageFlow
+Tracker
+FakeNFT (the repository is to be added)
 
 <!--
 **AlexanderAMedvedev/AlexanderAMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
