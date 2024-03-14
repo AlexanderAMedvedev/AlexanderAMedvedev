@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 I'm  the iOS-developer from Moscow.
+
+### My skills
+
+Swift, Git, HTTP requests, Xcode, MVC and MVP, layout by means of code, Kingfisher, 
+UITableView, UICollectionView
+
+
 <!--
 **AlexanderAMedvedev/AlexanderAMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
