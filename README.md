@@ -9,10 +9,10 @@ UITableView, UICollectionView
 
 ### My projects
 
-MovieQuiz
-ImageFlow
-Tracker
-FakeNFT (the repository is to be added)
+- MovieQuiz
+- ImageFlow
+- Tracker
+- FakeNFT (the repository is to be added)
 
 <!--
 **AlexanderAMedvedev/AlexanderAMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
