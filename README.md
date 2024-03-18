@@ -12,7 +12,7 @@ UITableView, UICollectionView
 - [MovieQuiz](https://github.com/AlexanderAMedvedev/MovieQuiz)
 - [ImageFlow](https://github.com/AlexanderAMedvedev/ImageFlow)
 - [Tracker](https://github.com/AlexanderAMedvedev/Tracker)
-- [FakeNFTmarket](https://github.com/AlexanderAMedvedev/FakeNFTmarket)
+- [FakeNFTmarket (my part is 'Statistics' tab)](https://github.com/AlexanderAMedvedev/FakeNFTmarket)
 
 <!--
 **AlexanderAMedvedev/AlexanderAMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
