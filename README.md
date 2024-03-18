@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm  the iOS-developer from Moscow.
+
 e-mail: alexander.medvedev.305@yandex.ru
+
 Telegram: @Alexsander_Medvedev
 
 ### My skills
