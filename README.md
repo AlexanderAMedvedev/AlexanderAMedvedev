@@ -17,6 +17,7 @@ UITableView, UICollectionView
 - [ImageFlow](https://github.com/AlexanderAMedvedev/ImageFlow)
 - [Tracker](https://github.com/AlexanderAMedvedev/Tracker)
 - [FakeNFTmarket (my part is 'Statistics' tab)](https://github.com/AlexanderAMedvedev/FakeNFTmarket)
+- [Tic-Tac-Toe](https://github.com/AlexanderAMedvedev/Tic-Tac-Toe)
 
 <!--
 **AlexanderAMedvedev/AlexanderAMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
