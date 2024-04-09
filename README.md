@@ -11,7 +11,7 @@ Telegram: @Alexsander_Medvedev
 Swift, Git, HTTP requests, Xcode, MVC and MVP, layout by means of code, Kingfisher, 
 UITableView, UICollectionView
 
-### My Swift projects
+### My Swift projects (from old to new)
 
 - [MovieQuiz](https://github.com/AlexanderAMedvedev/MovieQuiz)
 - [ImageFlow](https://github.com/AlexanderAMedvedev/ImageFlow)
