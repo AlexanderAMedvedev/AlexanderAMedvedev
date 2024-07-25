@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-I'm  the iOS-developer from Moscow.
+I'm  the Flutter and iOS-developer from Moscow.
 
 e-mail: alexander.medvedev.305@yandex.ru
 
 Telegram: @Alexsander_Medvedev
 
 ### My skills
+Dart; Flutter framework; packages freezed, retrofit, dio, image_picker, image_cropper; 
+showDialog function; layout by means of code
 
 Swift, Git, HTTP requests, Xcode, MVC and MVP, layout by means of code, Kingfisher, 
 UITableView, UICollectionView
+
+### My Flutter projects
+
+- Trails (my part is 'User Settings' feature)
 
 ### My Swift projects (from old to new)
 
