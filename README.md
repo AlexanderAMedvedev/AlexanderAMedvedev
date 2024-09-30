@@ -16,6 +16,7 @@ UITableView, UICollectionView
 ### My Flutter projects
 
 - Trails (my part is 'User Settings' feature)(the corresponding repository is private)
+- iEYE (the corresponding repository is private)
 
 ### My Swift projects (from old to new)
 
