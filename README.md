@@ -18,6 +18,7 @@ UITableView, UICollectionView
 - Trails (my part is 'User Settings' feature)(the corresponding repository is private)
 - iEYE (the corresponding repository is private)
 - [HotelRoomReservation](https://github.com/AlexanderAMedvedev/HotelRoomReservation)
+- FriendlyDoc (the corresponding repository is private)
 
 ### My Swift projects (from old to new)
 
